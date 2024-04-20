@@ -5,7 +5,7 @@ Our revolutionary platform lets you buy and sell tickets seamlessly, with secure
 
 ## For event goers:
 
-![Home Page](/images/landing-page.png "Landing Page View"){ align=right width="360" }
+![Home Page](/images/landing-page.png "Landing Page View"){ align=right }
 
 * Effortless transactions: Buy tickets in seconds with our user-friendly interface.
 * Safe and secure: Digital tickets with QR codes eliminate the risk of counterfeits.
@@ -13,7 +13,7 @@ Our revolutionary platform lets you buy and sell tickets seamlessly, with secure
 
 ## For event organizers:
 
-![Dashboard View](/images/14.paid-orders.png "Dashboard View"){ align=left width="360" }
+![Dashboard View](/images/14.paid-orders.png "Dashboard View"){ align=left }
 
 * Real-time sales dashboard: Gain instant insights into ticket sales and track trends.
 * Effortless management: Manage events, create seating charts, and send updates with a few clicks.
