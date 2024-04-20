@@ -1,5 +1,5 @@
 site_name: Tickethost
-site_url: http://localhost:8000 #http://docs.tickethost.co.zm
+site_url: https://docs.tickethost.co.zm
 nav:
   - index.md
   - getting_started/index.md
